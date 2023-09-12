@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\bin\Debug\net6.0\MandatoryLiterature.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\refint\MandatoryLiterature.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\MandatoryLiterature.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\MandatoryLiterature\obj\Debug\net6.0\ref\MandatoryLiterature.dll

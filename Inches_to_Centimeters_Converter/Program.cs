@@ -6,7 +6,7 @@
         {
             string input = Console.ReadLine();
             double inches = double.Parse(input);
-            double centimeters = inches*2.54;
+            double centimeters = inches * 2.54;
             Console.WriteLine(centimeters);
         }
     }

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\bin\Debug\net6.0\Food Delivery.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\bin\Debug\net6.0\Food Delivery.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\bin\Debug\net6.0\Food Delivery.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\bin\Debug\net6.0\Food Delivery.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\bin\Debug\net6.0\Food Delivery.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\refint\Food Delivery.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\Food Delivery.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Food Delivery\obj\Debug\net6.0\ref\Food Delivery.dll

@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\bin\Debug\net6.0\TeachingMaterials.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\refint\TeachingMaterials.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\TeachingMaterials.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TeachingMaterials\obj\Debug\net6.0\ref\TeachingMaterials.dll
