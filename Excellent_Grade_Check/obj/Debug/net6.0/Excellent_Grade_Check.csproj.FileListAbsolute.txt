@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\bin\Debug\net6.0\Excellent_Grade_Check.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\bin\Debug\net6.0\Excellent_Grade_Check.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\bin\Debug\net6.0\Excellent_Grade_Check.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\bin\Debug\net6.0\Excellent_Grade_Check.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\bin\Debug\net6.0\Excellent_Grade_Check.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\refint\Excellent_Grade_Check.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\Excellent_Grade_Check.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\Excellent_Grade_Check\obj\Debug\net6.0\ref\Excellent_Grade_Check.dll

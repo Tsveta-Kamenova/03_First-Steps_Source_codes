@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\bin\Debug\net6.0\TextReading.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\bin\Debug\net6.0\TextReading.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\bin\Debug\net6.0\TextReading.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\bin\Debug\net6.0\TextReading.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\bin\Debug\net6.0\TextReading.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\refint\TextReading.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\TextReading.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\TextReading\obj\Debug\net6.0\ref\TextReading.dll
