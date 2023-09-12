@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\bin\Debug\net6.0\The_Greater_Number.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\bin\Debug\net6.0\The_Greater_Number.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\bin\Debug\net6.0\The_Greater_Number.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\bin\Debug\net6.0\The_Greater_Number.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\bin\Debug\net6.0\The_Greater_Number.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\refint\The_Greater_Number.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\The_Greater_Number.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_First Steps_Source_codes\The_Greater_Number\obj\Debug\net6.0\ref\The_Greater_Number.dll
