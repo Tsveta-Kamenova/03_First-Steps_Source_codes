@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj": {}
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj": {
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj",
+        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj",
         "projectName": "BasketballEquipment",
-        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj",
+        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\BasketballEquipment\\BasketballEquipment.csproj",
         "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\BasketballEquipment\\obj\\",
+        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\BasketballEquipment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

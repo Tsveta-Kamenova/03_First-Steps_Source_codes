@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\SquareArea\\SquareArea.csproj",
+      "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\SquareArea\\SquareArea.csproj",
       "projectName": "SquareArea",
-      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\SquareArea\\SquareArea.csproj",
+      "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\SquareArea\\SquareArea.csproj",
       "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\SquareArea\\obj\\",
+      "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\SquareArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

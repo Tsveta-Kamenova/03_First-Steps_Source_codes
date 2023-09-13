@@ -21,16 +21,13 @@
             switch (animal)
             {
                 case "dog":
-                    Console.WriteLine("mammal");
-                    break;
+                    Console.WriteLine("mammal"); break;
                 case "crocodile":
                 case "tortoise":
                 case "snake":
-                    Console.WriteLine("reptile");
-                    break;
+                    Console.WriteLine("reptile"); break;
                 default:
-                    Console.WriteLine("unknown");
-                    break;
+                    Console.WriteLine("unknown"); break;
             }
         }
     }

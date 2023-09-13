@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj": {}
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj": {
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj",
+        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj",
         "projectName": "ConsoleConverterUSDtoBGN",
-        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj",
+        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\ConsoleConverterUSDtoBGN.csproj",
         "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\obj\\",
+        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\ConsoleConverterUSDtoBGN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",

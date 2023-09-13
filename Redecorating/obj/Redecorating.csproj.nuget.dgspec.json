@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\Redecorating\\Redecorating.csproj": {}
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\Redecorating\\Redecorating.csproj": {}
   },
   "projects": {
-    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\Redecorating\\Redecorating.csproj": {
+    "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\Redecorating\\Redecorating.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\Redecorating\\Redecorating.csproj",
+        "projectUniqueName": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\Redecorating\\Redecorating.csproj",
         "projectName": "Redecorating",
-        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\Redecorating\\Redecorating.csproj",
+        "projectPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\Redecorating\\Redecorating.csproj",
         "packagesPath": "C:\\Users\\Tsveta\\.nuget\\packages\\",
-        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_First Steps_Source_codes\\Redecorating\\obj\\",
+        "outputPath": "D:\\SOFTWARE\\_SoftUni-QA\\03_Programming Fundamentals and Unit Testing - September_2023\\03_04_First Steps_Source_codes\\Redecorating\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tsveta\\AppData\\Roaming\\NuGet\\NuGet.Config",
