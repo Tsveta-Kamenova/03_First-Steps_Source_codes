@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AnimalTypes"
   ],
-  "SelectedNode": "\\MyFirstC#Solution.sln",
+  "SelectedNode": "\\AnimalTypes\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
