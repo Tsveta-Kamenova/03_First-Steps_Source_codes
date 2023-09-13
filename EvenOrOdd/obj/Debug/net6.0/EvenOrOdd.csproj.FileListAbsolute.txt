@@ -1,0 +1,14 @@
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\SOFTWARE\_SoftUni-QA\03_Programming Fundamentals and Unit Testing - September_2023\03_04_First Steps_Source_codes\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll
